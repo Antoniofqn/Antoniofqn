@@ -5,7 +5,7 @@
 <p align="center">- I love to draw and to lift weights...</p>
 <p align="center">... and also coding. Most of the time.</p>
 <br>
-<p align="center">- 🔭 I’m currently working on [12 Grandes, a data visualization website about matches between brazilian football clubs](https://github.com/Antoniofqn/DozeGrandes)</p>
+<p align="center">- 🔭 I’m currently working on 12 Grandes, a data visualization website about matches between brazilian football clubs(https://github.com/Antoniofqn/DozeGrandes)</p>
 
 <br>
 <h3 align="center">Connect with me:</h3>
