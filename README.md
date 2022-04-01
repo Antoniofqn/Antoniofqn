@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antônio</h1>
 <h3 align="center">Fullstack web developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React**
+<p align="center">- 🌱 I’m currently learning **React**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
