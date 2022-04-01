@@ -2,6 +2,9 @@
 <h3 align="center">Fullstack web developer from Brazil</h3>
 
 <p align="center">- 🌱 I’m currently learning **React**</p>
+<p align="center">- I love to draw and to lift weights...</p>
+<p align="center">... and also coding. Most of the time.</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
